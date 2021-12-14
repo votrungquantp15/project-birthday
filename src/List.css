@@ -1,0 +1,9 @@
+.person {
+  display: flex;
+  margin-bottom: 30px;
+}
+.person h4,
+p {
+  margin: 2px;
+  margin-left: 10px;
+}
